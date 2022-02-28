@@ -1,6 +1,6 @@
 ---
 title: Postdoctoral Science Foundation of China 
-summary: Identifying the boundaries and spatial structure of metropolitan areas using multi-source big data.
+summary: Identifying boundaries and spatial structure of metropolitan areas.
 tags:
 - 
 date: "2022-04-01"
