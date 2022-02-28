@@ -32,7 +32,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Plos one*
-publication_short: In *Plosone*
+publication_short: In *Plos one*
 
 abstract: 
 
