@@ -2,8 +2,8 @@
 title: SIMETRI
 summary: SustaInable Mobility and Equality in mega-ciTy RegIons.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- 
+date: "2019-02-28"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
