@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr.Qili Gao (高琦丽)
+title: Qili Gao (高琦丽)
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Dr Qili Gao is a Research Fellow in Urban Mobility and Inequality. She has already worked on SIMETRI project for years based at our partner university - Shenzhen University (2020) and Hong Kong PolyU (2021). Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. She has published several papers in human mobility patterns, jobs-housing relationships, segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Foundation of China.
+Dr. Qili Gao is a Research Fellow in Urban Mobility and Inequality.Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. She has published several papers in human mobility patterns, jobs-housing relationships, segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Foundation of China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
