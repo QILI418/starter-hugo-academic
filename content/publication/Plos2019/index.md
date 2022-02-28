@@ -5,13 +5,13 @@ title: "Urban commuting dynamics in response to public transit upgrades: A big d
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Li Qing-Quan
-- Zhuang Yan
-- Yue Yang
-- Liu Zhen-Zhen
-- Li Shui-Quan
-- Sui Daniel
+  - admin
+  - Li Qing-Quan
+  - Zhuang Yan
+  - Yue Yang
+  - Liu Zhen-Zhen
+  - Li Shui-Quan
+  - Sui Daniel
 
 # Author notes (optional)
 # author_notes:
