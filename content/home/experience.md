@@ -36,7 +36,15 @@ experience:
 #        * Modelling
 #        * Deploying
         
-
+  - title: Research Assistant
+    company: LSGI, The Hong Kong Polytechnic University
+    company_url: ''
+    company_logo: LSGI
+    location: Hong Kong
+    date_start: '2021-03'
+    date_end: '2021-11'
+ #  description: Taught electronic engineering and researched semiconductor physics.
+ 
 
 design:
   columns: '2'
