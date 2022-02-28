@@ -36,9 +36,15 @@ experience:
 #        * Modelling
 #        * Deploying
         
-
+  - title: Research Assistant
+    company: LSGI, The Hong Kong Polytechnic University
+    company_url: ''
+    company_logo: LSGI
+    location: Hong Kong
+    date_start: '2021-03'
+    date_end: '2021-11'
     
- - title: Postdoctoral Fellow
+  - title: Postdoctoral Fellow
   company: Department of Urban Informatics, Shenzhen University
   company_url: ''
   company_logo: szu
@@ -46,7 +52,6 @@ experience:
   date_start: '2020-01'
   date_end: '2022-01'
  
-
 design:
   columns: '2'
 ---
