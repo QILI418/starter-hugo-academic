@@ -25,7 +25,7 @@ experience:
   - title: Research Fellow
     company: CASA, UCL
     company_url: ''
-    company_logo: 
+    company_logo: ucl
     location: London, United Kingdom
     date_start: '2022-02'
     date_end: ''
