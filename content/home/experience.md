@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ucl
     location: London, United Kingdom
-    date_start: '2022-02'
+    date_start: '2022-02-15'
     date_end: ''
 #    description: |2-
 #        Responsibilities include:
@@ -41,16 +41,16 @@ experience:
     company_url: ''
     company_logo: LSGI
     location: Hong Kong, China
-    date_start: '2021-03'
-    date_end: '2021-11'
+    date_start: '2021-03-07'
+    date_end: '2021-11-07'
     
   - title: Postdoctoral Fellow
     company: Department of Urban Informatics, Shenzhen University
     company_url: ''
     company_logo: szu
     location: Shenzhen, China
-    date_start: '2020-01'
-    date_end: '2022-01'
+    date_start: '2020-01-01'
+    date_end: '2022-01-31'
  
 design:
   columns: '2'
