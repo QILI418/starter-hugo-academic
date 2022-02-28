@@ -30,5 +30,5 @@ url_video: ""
 slides: example
 ---
 
-The research project aims to infer individual activity space features from big data, measuring disparities in activity patterns among different social groups
-based on inferred activity space features, and Model the associations between urban spatial structure and activity disparities.
+The research project aims to infer individual activity space features from big data, measure disparities in activity patterns among different social groups
+based on inferred activity space features, and model the associations between urban spatial structure and activity disparities.
