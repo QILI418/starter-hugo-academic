@@ -45,12 +45,12 @@ experience:
     date_end: '2021-11'
     
   - title: Postdoctoral Fellow
-  company: Department of Urban Informatics, Shenzhen University
-  company_url: ''
-  company_logo: szu
-  location: Shenzhen, China
-  date_start: '2020-01'
-  date_end: '2022-01'
+    company: Department of Urban Informatics, Shenzhen University
+    company_url: ''
+    company_logo: szu
+    location: Shenzhen, China
+    date_start: '2020-01'
+    date_end: '2022-01'
  
 design:
   columns: '2'
