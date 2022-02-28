@@ -50,9 +50,9 @@ experience:
     company_url: ''
     company_logo: szu
     location: Shenzhen, China
-    date_start: '2021-03'
-    date_end: '2021-11'
+    date_start: '2020-01'
+    date_end: '2022-01'
 
 design:
-  columns: '3'
+  columns: '2'
 ---
