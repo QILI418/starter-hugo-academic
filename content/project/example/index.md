@@ -30,6 +30,9 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The research project SIMETRI (SustaInable Mobility and Equality in mega-ciTy RegIons: patterns, mechanisms and governance) brings together researchers from University College London, Birkbeck University of London, King’s College London, Vrije Universiteit Amsterdam, Shenzhen University, Shenzhen Institute of Research and Innovation, The University of Hong Kong, and Sun Yat-sen University.
+
+SIMETRI will develop a world-class science platform relevant to political decision-makers responsible for housing, transport, employment and urban development in the world’s biggest mega-city region, the Pearl River Delta Greater Bay Area. The platform integrates work on inequality indicators and predicting future land use and transport developed in western Europe in London and the Randstad with related work in Shenzhen and Guangzhou, producing a system that will use state-of-the-art simulation models, big data from routine transport, and new ways of using information technology for participatory governance. 
+
 
 
