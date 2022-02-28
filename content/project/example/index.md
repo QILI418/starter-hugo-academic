@@ -1,6 +1,6 @@
 ---
 title: SIMETRI
-summary: SustaInable Mobility and Equality in mega-ciTy RegIons: patterns, mechanisms and governance.
+summary: SustaInable Mobility and Equality in mega-ciTy RegIons.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
