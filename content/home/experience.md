@@ -40,7 +40,7 @@ experience:
     company: LSGI, The Hong Kong Polytechnic University
     company_url: ''
     company_logo: LSGI
-    location: Hong Kong
+    location: Hong Kong, China
     date_start: '2021-03'
     date_end: '2021-11'
     
