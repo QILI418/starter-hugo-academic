@@ -1,6 +1,6 @@
 ---
 title: SIMETRI
-summary: An example of using the in-built project page.
+summary: SustaInable Mobility and Equality in mega-ciTy RegIons: patterns, mechanisms and governance.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
