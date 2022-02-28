@@ -9,7 +9,7 @@ date: "2019-02-28"
 external_link: "https://simetri.uk/about-the-project"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Picture from the project
   focal_point: Smart
 
 # links:
