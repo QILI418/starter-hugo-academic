@@ -9,7 +9,7 @@ date: "2022-04-01"
 external_link: ""
 
 image:
-  caption: source: Baidu picture
+  caption: Baidu picture
   focal_point: Smart
 
 # links:
