@@ -25,7 +25,7 @@ experience:
   - title: Research Fellow
     company: CASA, UCL
     company_url: ''
-    company_logo: ucl.png
+    company_logo: ucl
     location: London, United Kingdom
     date_start: '2022-02'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: LSGI, The Hong Kong Polytechnic University
     company_url: ''
-    company_logo: LSGI.jpeg
+    company_logo: LSGI
     location: Hong Kong, China
     date_start: '2021-03'
     date_end: '2021-11'
@@ -47,7 +47,7 @@ experience:
   - title: Postdoctoral Fellow
     company: Department of Urban Informatics, Shenzhen University
     company_url: ''
-    company_logo: szu.png
+    company_logo: szu
     location: Shenzhen, China
     date_start: '2020-01'
     date_end: '2022-01'
