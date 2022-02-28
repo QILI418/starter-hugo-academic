@@ -9,7 +9,7 @@ date: "2021-01-01"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Nanshan, Shenzhen
   focal_point: Smart
 
 # links:
