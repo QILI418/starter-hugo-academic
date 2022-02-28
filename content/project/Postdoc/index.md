@@ -9,7 +9,7 @@ date: "2022-04-01"
 external_link: ""
 
 image:
-  caption: Nanshan, Shenzhen
+  caption: source: Baidu picture
   focal_point: Smart
 
 # links:
