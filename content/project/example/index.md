@@ -1,8 +1,8 @@
 ---
 title: SIMETRI
-summary: SustaInable Mobility and Equality in mega ciTy RegIons: patterns, mechanisms and governance.
+summary: SustaInable Mobility and Equality in mega-ciTy RegIons: patterns, mechanisms and governance.
 tags:
-- Mega-city
+-
 date: "2019"
 
 # Optional external URL for project (replaces project detail page).
