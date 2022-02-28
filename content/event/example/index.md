@@ -59,6 +59,7 @@ slides: example
 projects:
 - example
 ---
+---
 title: Example Talk
 
 event: CPGIS Conference
