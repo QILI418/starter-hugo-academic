@@ -1,15 +1,15 @@
 ---
-title: National Natural Science Foundation of China for Youth 
-summary: Measuring Urban Inequality Based on Multi-dimensional Activity Space.
+title: Postdoctoral Science Foundation of China for Youth 
+summary: Identifying boundries and spatial structure of metropolitan areas.
 tags:
 - 
-date: "2021-01-01"
+date: "2022-04-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Nanshan, Shenzhen
+  caption: Baidu picture
   focal_point: Smart
 
 # links:
@@ -30,5 +30,4 @@ url_video: ""
 slides: example
 ---
 
-The research project aims to infer individual activity space features from big data, measuring disparities in activity patterns among different social groups
-based on inferred activity space features, and Model the associations between urban spatial structure and activity disparities.
+The research project aims to infer individual activity space features from multi-source big data, identify the boundries of metropolitan areas based on inferred multi-dimensional features, and reveal the spatial structure of metropolitan areas from the dual perspectives of "urban function" and "interaction".
