@@ -72,4 +72,4 @@ highlight_name: true
 
 Dr. Qili Gao is a Research Fellow in Urban Mobility and Inequality.Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. She has published several papers in human mobility patterns, jobs-housing relationships, segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Foundation of China.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
