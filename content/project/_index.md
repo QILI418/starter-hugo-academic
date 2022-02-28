@@ -1,6 +1,6 @@
 ---
 title: Projects
-cms_exclude: False
+cms_exclude: True
 
 # View.
 #   1 = List
