@@ -6,7 +6,7 @@ tags:
 date: "2019-02-28"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://simetri.uk/about-the-project"
 
 image:
   caption: Photo by rawpixel on Unsplash
