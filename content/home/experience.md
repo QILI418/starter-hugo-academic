@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: LSGI, The Hong Kong Polytechnic University
     company_url: ''
-    company_logo: LSGI
+    company_logo: polyu
     location: Hong Kong, China
     date_start: '2021-03-07'
     date_end: '2021-11-07'
