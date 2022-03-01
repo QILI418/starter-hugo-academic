@@ -1,16 +1,16 @@
 ---
 title:  Understanding socio-spatial segregation from activity space
 
-event: 13th IACP Conference
+event: The 13th IACP Conference
 event_url: http://www.china-planning.org/alpha/2019/09/16/the-13th-iacp-annual-conference-in-chengdu/
 
 location: Chengdu, China
 address:
   street: 
-  city: Chengdu
-  region: Sichuan
+  city: 
+  region: 
   postcode: 
-  country: China
+  country: 
 
 summary: Understanding socio-spatial segregation from activity space
 abstract: ""
