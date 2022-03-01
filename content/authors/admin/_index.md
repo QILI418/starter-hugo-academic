@@ -14,13 +14,13 @@ organizations:
   url: https://www.ucl.ac.uk/bartlett/casa
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human dynamics and urban informatics.
 
 # Interests to show in About widget
 interests:
 - Human Dynamics and Urban Informatics
 - Spatial Data Mining and Social Computing
-- Human mobility and Social Inequalilty
+- Human Mobility and Social Inequalilty
 
 # Education to show in About widget
 education:
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Qili Gao is a Research Fellow in Urban Mobility and Inequality.Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and social inequality for urban and transport planning. She has published several papers in human mobility patterns, jobs-housing relationships, segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Foundation of China.
+Dr. Qili Gao is a Research Fellow in Urban Mobility and Inequality. She received Ph.D. degree from Wuhan University, China. Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and social inequality for urban and transport planning. She has published several papers in human mobility pattern, jobs-housing relationship, segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Science Foundation of China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
