@@ -5,7 +5,10 @@ title: "融入城市空间因素的通勤异质性多层解析"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- 梁宇豪
 - admin
+- 郭莉
+- 乐阳
 
 # Author notes (optional)
 # author_notes:
