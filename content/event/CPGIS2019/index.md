@@ -1,5 +1,5 @@
 ---
-title:  Exploring the spatial segregation of new Migrants based on activity space
+title:  Exploring the spatial segregation of new migrants based on activity space
 
 event: The 27th CPGIS Conference
 event_url: https://www.cpgis.org/conferences/ConferenceDefault.aspx?ID=75
