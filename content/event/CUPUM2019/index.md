@@ -12,7 +12,7 @@ address:
   postcode: 
   country: China
   
-summary: Urban commuting dynamics in response to public transit upgrades: A big data approach
+summary: 
 abstract: ""
 
 # Talk start and end times.
