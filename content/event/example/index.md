@@ -2,7 +2,7 @@
 title: Identifying intra-city residential spatial distribution changes using transit smart card data
 
 event: 27th CPGIS Conference
-event_url: https://example.org
+event_url: https://www.cpgis.org/conferences/ConferenceDefault.aspx?ID=73
 
 location: Baffulo, NY, USA
 address:
