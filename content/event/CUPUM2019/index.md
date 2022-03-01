@@ -7,10 +7,10 @@ event_url: https://cupum2019.aconf.org/
 location: Wuhan, China
 address:
   street: 
-  city: Wuhan
+  city: 
   region: 
   postcode: 
-  country: China
+  country: 
   
 summary: 
 abstract: ""
