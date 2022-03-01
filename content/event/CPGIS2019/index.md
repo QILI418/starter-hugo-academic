@@ -7,10 +7,10 @@ event_url: https://www.cpgis.org/conferences/ConferenceDefault.aspx?ID=75
 location: Sydney, Australia
 address:
   street: 
-  city: Sydney
+  city: 
   region: 
   postcode: 
-  country: Australia
+  country: 
 
 summary: Exploring the spatial segregation of new Migrants based on activity space
 abstract: ""
