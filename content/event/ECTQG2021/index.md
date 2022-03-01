@@ -1,5 +1,5 @@
 ---
-title: Exploring the relationship between human activity patterns and income status: Evidence from transit users in Shenzhen
+title: Revealing the relationship between human activity patterns and income status
 
 event: The 2021 ECTQG conference
 event_url: https://ectqg2021.wordpress.com/
