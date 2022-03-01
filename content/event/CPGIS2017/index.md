@@ -6,10 +6,10 @@ event_url: https://www.cpgis.org/conferences/ConferenceDefault.aspx?ID=73
 
 location: Baffulo, NY, USA
 address:
-  street: 450 Serra Mall
+  street: 
   city: Baffulo
   region: New York
-  postcode: '94305'
+  postcode: 
   country: United States
 
 summary: Identifying intra-city residential spatial distribution changes using transit smart card data.
