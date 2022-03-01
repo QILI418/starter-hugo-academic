@@ -48,7 +48,7 @@ social:
  # link: https://twitter.com/GeorgeCushen -->
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/QILI418
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Qili Gao is a Research Fellow in Urban Mobility and Inequality. She received Ph.D. degree from Wuhan University, China. Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and social inequality for urban and transport planning. She has published several papers in human mobility pattern, jobs-housing relationship, segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Science Foundation of China.
+Dr. Qili Gao is a Research Fellow in Urban Mobility and Social Inequality. She received her Ph.D. degree from Wuhan University, China. Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and social inequality for urban and transport planning. She has published several papers in human mobility pattern, jobs-housing relationship, socio-spatial segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Science Foundation of China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
