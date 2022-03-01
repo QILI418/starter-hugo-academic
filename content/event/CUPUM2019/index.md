@@ -1,7 +1,7 @@
 ---
 title: Urban commuting dynamics in response to public transit upgrades: A big data approach
 
-event: The 16th Interactional Conference on Computers in Urban Planning and Urban Management (CUPUM)
+event: The 16th CUPUM conference
 event_url: https://cupum2019.aconf.org/
 
 location: Wuhan, China
