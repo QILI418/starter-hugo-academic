@@ -1,7 +1,7 @@
 ---
 title: Understanding socio-spatial inequality using human mobility data
 
-event: The 2021 SCRI (Smart Cities Research Institute) Solon
+event: The 2021 SCRI (Smart Cities Research Institute) Salon
 event_url: https://ectqg2021.wordpress.com/
 
 location: LSGI, The Hong Kong Polytechnic University
