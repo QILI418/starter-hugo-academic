@@ -21,6 +21,7 @@ interests:
 - Human Dynamics and Urban Informatics
 - Spatial Data Mining and Social Computing
 - Human Mobility and Social Inequalilty
+- Data-driven Urban Analytics
 
 # Education to show in About widget
 education:
