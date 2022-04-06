@@ -1,6 +1,6 @@
 ---
 title: Postdoctoral Science Foundation of China
-summary: Identifying boundries and spatial structure of metropolitan areas.
+summary: Identifying boundaries and spatial structure of metropolitan areas.
 tags:
 - 
 date: "2021-06-01"
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-The research project aims to infer individual activity space features from multi-source big data, identify the boundries of metropolitan areas based on inferred multi-dimensional features, and reveal the spatial structure of metropolitan areas from the dual perspectives of "urban function" and "interaction".
+The research project aims to infer individual activity space features from multi-source big data, identify the boundaries of metropolitan areas based on inferred multi-dimensional features, and reveal the spatial structure of metropolitan areas from the dual perspectives of "urban function" and "interaction".
