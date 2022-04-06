@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 80
 
 title: Contact
 subtitle:
@@ -25,7 +25,7 @@ content:
 #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: qili.gao@ucl.ac.uk
+  email: qili.gao@outlook.com
 # phone: 888 888 88 88
   address:
     street: Gower Street
