@@ -1,5 +1,5 @@
 ---
-title: Advanced Geographic Information Systems(Guest Lecture)
+title: 2022-Advanced Geographic Information Systems(Guest Lecture)
 summary: Understanding urban socio-spatial inequality using human mobility data.
 tags:
 - 
