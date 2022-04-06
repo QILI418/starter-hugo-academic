@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: classic
-  font_size: xs
+  font_size: s
 
 # SEO
 
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Qili Gao. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
