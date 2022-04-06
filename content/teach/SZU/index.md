@@ -1,5 +1,5 @@
 ---
-title: 大数据与城市分析（Guest Lecture）
+title: 2022: 大数据与城市分析(Guest Lecture)
 summary: 从移动性视角理解城市社会空间均等性.
 tags:
 - 
