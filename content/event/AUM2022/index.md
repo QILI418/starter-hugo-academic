@@ -1,5 +1,5 @@
 ---
-title: SIMETRI: Socio-spatial inequalities and human mobility in megacities
+title: SIMETRI:Socio-spatial inequalities and human mobility in megacities
 
 event: Applied Urban Modelling (AUM) 2022:Understanding common challenges
 
