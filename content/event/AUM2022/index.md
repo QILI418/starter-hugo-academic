@@ -1,7 +1,8 @@
 ---
 title: SIMETRI: Socio-spatial inequalities and human mobility in megacities
 event: Hybrid Symposium on Applied Urban Modelling (AUM) 2022: Understanding common challenges
-event_url: 
+event_url: https://www.arct.cam.ac.uk/research/conferences/applied-urban-modelling-aum/aum2022-understanding-common-challenges
+
 location: Cambridge, United Kingdom
 address:
   street: 
@@ -10,7 +11,7 @@ address:
   postcode: 
   country: 
 
-summary: SIMETRI: Socio-spatial inequalities and human mobility in megacities
+summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
