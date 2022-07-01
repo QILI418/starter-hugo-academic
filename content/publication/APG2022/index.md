@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-06-16T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.apgeog.2022.102748"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2022-07-01T00:00:00Z"
