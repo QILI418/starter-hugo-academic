@@ -11,7 +11,7 @@ address:
   postcode: 
   country: 
 
-summary: SIMETRI: Socio-spatial inequalities and human mobility in megacities.
+summary: SIMETRI: Socio-spatial inequalities and human mobility in megacities
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
