@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *城市交通*
+publication: In *Urban Transport of China (城市交通)*
 publication_short: In *城市交通*
 
 abstract: 
