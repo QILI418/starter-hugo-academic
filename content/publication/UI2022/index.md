@@ -11,10 +11,10 @@ authors:
 - Zhong Chen
 - Barros Joana
 
-Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2022-09-09T00:00:00Z"
 doi: "[10.1007/s44212-022-00003-3]"
