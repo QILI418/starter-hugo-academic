@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-08-17T00:00:00Z"
-doi: "[10.1016/j.compenvurbsys.2022.101872]"
+doi: "10.1016/j.compenvurbsys.2022.101872"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2022-08-17T00:00:00Z"
