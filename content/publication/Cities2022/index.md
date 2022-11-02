@@ -6,11 +6,11 @@ title: "Revealing transport inequality from an activity space perspective: A stu
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Yang Yue
-- Chen Zhong
-- Jinzhou Cao
-- Wei Tu
-- Qing-Quan Li
+- Yue Yang
+- Zhong Chen
+- Cao Jinzhou
+- Tu Wei
+- Li Qing-Quan
 
 # Author notes (optional)
 # author_notes:
