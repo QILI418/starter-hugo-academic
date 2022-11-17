@@ -1,5 +1,5 @@
 ---
-title: 2022-Master dissertation(Supervision)
+title: 2022-Master dissertation (Supervision)
 summary: Delineating Urban Spatial Structure from the Dual Perspectives of "Places and Flows":A Case Study of the Pearl River Delta in China.
 tags:
 - 
