@@ -36,7 +36,7 @@ experience:
 #        * Modelling
 #        * Deploying
         
-  - title: Research Assistant
+  - title: Postdoctoral Fellow
     company: LSGI, The Hong Kong Polytechnic University
     company_url: ''
     company_logo: polyu
@@ -50,7 +50,7 @@ experience:
     company_logo: szu
     location: Shenzhen, China
     date_start: '2020-01-01'
-    date_end: '2022-01-31'
+    date_end: '2021-03-01'
  
 design:
   columns: '2'
