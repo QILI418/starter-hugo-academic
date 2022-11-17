@@ -3,7 +3,7 @@ title: 2022-Quantitative Methods (Teaching assistant)
 summary: Quiz preparation and explaination; Question solving; Assessment marking.
 tags:
 - 
-date: "2022-10-04"
+date: "2022/10/04-2022/12/16"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
