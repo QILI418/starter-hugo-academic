@@ -27,10 +27,10 @@ doi: "10.1016/j.trd.2022.103514"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Transportation Research Part D: Transport and Environment*
+publication: In **
 publication_short: In *TRD*
 
-abstract: 
+abstract: A commonly used quantitative method for evaluating the status quo in transit-oriented development (TOD) is the node-place (NP) model. However, NP-derived models seldom consider the compactness of station areas and their interactions with urban structures. This work extended the NP model by introducing two concepts of compactness and urban vibrancy. Moreover, a scoring approach was proposed to measure the overall TOD level to facilitate inter-city comparison. This work conducted a comparative study of two megacities, Guangzhou and Shenzhen, and found that Shenzhen is better in overall TOD performance. When examining specific dimensions of performance using clustering methods, we found significant discrepancies in both cluster characteristics and spatial distributions, with Guangzhou exhibiting a core-periphery spatial pattern and Shenzhen a polycentric structure. We observed a significant correlation between the TOD index and urban vibrancy in both cities. This study contributes to a more targeted TOD policy by supporting the decision-making process.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
