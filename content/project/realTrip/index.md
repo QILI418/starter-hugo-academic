@@ -1,6 +1,6 @@
 ---
 title: realTRIPS
-summary: Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS (realTRIPS).
+summary: Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS.
 tags:
 - 
 date: "2021-02-01"
