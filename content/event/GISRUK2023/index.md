@@ -1,5 +1,5 @@
 ---
-title: Understanding urban inequality and scaling law: A human mobility perspective
+title: Understanding urban inequality and scaling law-A human mobility perspective
 
 event: The GISRUK 2023 conference
 event_url: https://gisruk.org/gisruk-2023/
