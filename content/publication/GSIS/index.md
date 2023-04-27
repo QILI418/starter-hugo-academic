@@ -6,7 +6,6 @@ title: "Untangling the association between urban mobility and urban elements"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-Jinzhou Cao, Wei Tu, Rui Cao, Qili Gao, Guanzhou Chen, Qingquan Li
 - Cao Jinzhou
 - Tu Wei
 - Cao Rui
