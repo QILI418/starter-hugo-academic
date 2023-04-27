@@ -11,7 +11,7 @@ authors:
 - Cao Rui
 - Admin
 - Chen Guanzhou
-- Li Qing-Quan
+- Li Qingquan
 
 # Author notes (optional)
 # author_notes:
@@ -34,8 +34,7 @@ publication_types: ["2"]
 publication: In *Geo-spatial Information Science*
 publication_short: In *GSIS*
 
-abstract: Understanding complex urban systems necessitates untangling the relationships between diverse urban elements such as population, infrastructure, and socioeconomic activities. Scaling laws are basic but effective rules for evaluating a city’s internal growth logic and assessing its efficiency by investigating whether urban indicators scale with population. To date, only limited research has empirically explored the scaling relations between variables of urban mobility in mega-cities at an intra-urban scale of a few meters. Using multiple urban-sensed and human-sensed data, this study proposes a thorough framework for quantifying the scaling laws in a city. To begin, urban mobility networks are built by aggregating population flows using large-scale mobile phone tracking data. To demonstrate the spatiotemporal variability of urban mobility, various network-based mobility measures are proposed. Following that, three different features of urban mobility laws are exposed, explaining spatial agglomeration, spatial hierarchical structures, and the temporal growth process. The scaling correlations between urban indicators pertaining to socioeconomic features and infrastructure and a mobility-population measure are then quantified using multi-sourced urban-sensed data. Applying this framework to the case study of Shenzhen, China revealed (a) spatial travel heterogeneity, hierarchical spatial structures, and mobility growth, and (b) not only a robust sub-linear relationship between infrastructure volume and population, but also a sub-linear relationship for socioeconomic activity. The identified scaling laws, both in terms of mobility measures and urban indicators, provide a multi-faceted portrait of the spatio-temporal variations of urban settings, allowing us to better understand intra-urban developments and, consequently, provide critical policy evaluations and suggestions for improving intra-urban efficiency in the future.
-
+abstract: 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
