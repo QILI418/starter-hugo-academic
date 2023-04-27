@@ -1,6 +1,6 @@
 
 ---
-title: "Untangling the association between urban mobility and urban elements"
+title: ""
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
