@@ -16,13 +16,13 @@ image:
 # - icon: twitter
 # icon_pack: fab
 # name: Follow
-url: www.baidu.com
+# url: 
 url_code: ""
 url_pdf: ""
-url_slides: "ppt课件"
+url_slides: ""
 url_video: ""
 
-# Slides (optional).
+Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
