@@ -6,7 +6,7 @@ tags:
 date: "2023/09/06-2024/01/03"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "www.baidu.com"
+external_link: ""
 
 image:
   caption: Picture for the course
@@ -16,10 +16,10 @@ image:
 # - icon: twitter
 # icon_pack: fab
 # name: Follow
-# url: https://twitter.com/georgecushen
+url: www.baidu.com
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "ppt课件"
 url_video: ""
 
 # Slides (optional).
