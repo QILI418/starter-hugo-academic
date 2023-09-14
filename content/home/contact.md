@@ -25,7 +25,7 @@ content:
 #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: qili.gao@outlook.com
+  email: qlgao@szu.edu.cn
 # phone: 888 888 88 88
   address:
     street: No.3688 Nanhai, Ave. Nanshan District
@@ -41,15 +41,15 @@ content:
  # - 'Monday 10:00 to 13:00'
  # - 'Wednesday 09:00 to 10:00'
  # appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: Wechat
-      icon_pack: fab
-      name:  Call Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+ # contact_links:
+ #   - icon: Wechat
+ #     icon_pack: fab
+ #     name:  Call Me
+ #     link: 'https://twitter.com/Twitter'
+ #   - icon: video
+ #     icon_pack: fas
+ #     name: Zoom Me
+ #     link: 'https://zoom.com'
 
 design:
   columns: '2'
