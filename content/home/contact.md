@@ -28,23 +28,23 @@ content:
   email: qili.gao@outlook.com
 # phone: 888 888 88 88
   address:
-    street: Gower Street
-    city: London
-    postcode: 'WC1E 6BT'
-    country: United Kingdom
-    country_code: UK
-# coordinates:
-  latitude: '51.52471'
-  longitude: '-0.13406'
+    street: No.3688 Nanhai, Ave. Nanshan District
+    city: Shenzhen
+    postcode: '518060'
+    country: China
+    country_code: China
+  coordinates:
+    latitude: '22.54'
+    longitude: '113.94'
  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
  # office_hours:
  # - 'Monday 10:00 to 13:00'
  # - 'Wednesday 09:00 to 10:00'
  # appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
+ # contact_links:
+    - icon: Wechat
       icon_pack: fab
-      name: TW Me
+      name:  Call Me
       link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
