@@ -6,12 +6,12 @@ title: Qili Gao (高琦丽)
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow in Urban Mobility and Social Inequality
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London (UCL)
-  url: https://www.ucl.ac.uk/bartlett/casa
+- name: Shenzhen Audencia Financial Technology Institute(SAFTI), Shenzhen University(SZU)
+  url: https://shenzhen.audencia.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include human dynamics and urban informatics.
@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Qili Gao is a Research Fellow in Urban Mobility and Social Inequality. She received her Ph.D. degree from Wuhan University, China. Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and social inequality for urban and transport planning. She has published several papers in human mobility pattern, jobs-housing relationship, socio-spatial segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Science Foundation of China.
+Dr. Qili Gao is an Assistant Professor at Shenzhen University. She received her Ph.D. degree from Wuhan University, China. Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and social inequality for urban and transport planning. She has published several papers in human mobility pattern, jobs-housing relationship, socio-spatial segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Science Foundation of China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
