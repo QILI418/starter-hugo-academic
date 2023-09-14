@@ -6,7 +6,7 @@ tags:
 date: "2023/09/06-2024/01/03"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "www.baidu.cn"
 
 image:
   caption: Picture for the course
