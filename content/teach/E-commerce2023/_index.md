@@ -1,6 +1,6 @@
 ---
 title: E-Commerce Case Analysis（电子商务案例分析）
-summary:
+summary:  ---
 date: '2023-09-06'
 type: Course
 commentable: true
