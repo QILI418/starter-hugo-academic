@@ -30,8 +30,8 @@ commentable: true
 
 |Weeks | Topics                                                                                  | Lecture slides	                                                                                                                                                               
 |----- |:----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1   |Introduction to E-Commerce | [{{% staticref "uploads/idsbd/2023-Chp1-大数据概述.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                  |
-|  2   |The development of E-Commerce                 | |
+|  1   |Introduction to E-Commerce | [{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 1.pdf" "newtab" %}}Slides{{% /staticref %}}] |
+|  2   |The development of E-Commerce                 |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 2.pdf" "newtab" %}}Slides{{% /staticref %}}]  |
 |  3  |The technological foundation of E-Commerce     | | 
 | 4 |Online Retail                                    | |               
 |  5  |Content Commerce                               | | 
