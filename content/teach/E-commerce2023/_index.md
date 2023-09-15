@@ -15,10 +15,9 @@ commentable: true
 
 -----
 
-
 {{< toc hide_on="xl" >}}
 
-## Grade breakdown:
+## Grade breakdown
 
 |  Requirements              | Percent      | Points                       | Note                                       |
 |:---------------------------|:------------:|:-----------------------------|:-------------------------------------------|
@@ -27,7 +26,6 @@ commentable: true
 | Laboratory     实验        | 27%          | 3 points each, 9 in total    |                                            |
 | Final  exam    考试        | 60%          |                              |                                            |
 
-&nbsp;
 
 ## Class Schedule
 
