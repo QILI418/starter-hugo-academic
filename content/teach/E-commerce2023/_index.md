@@ -21,10 +21,9 @@ commentable: true
 
 |  Requirements              | Percent      | Points                       | Note                                       |
 |:---------------------------|:------------:|:-----------------------------|:-------------------------------------------|
-| Participation  出勤        | 3%           |                              |                                            |
-| Final Project   作业        | 10%          |                              |                                            |
-| Laboratory     实验        | 27%          | 3 points each, 9 in total    |                                            |
-| Final  exam    考试        | 60%          |                              |                                            |
+| Regular homework assessments | 10%          |   100                       |                                            |
+|Group presentation        | 30%              |     100                     |                                            |
+| Final  exam                | 60%          |  100                          |                                            |
 
 
 ## Class Schedule
