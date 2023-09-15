@@ -30,17 +30,17 @@ commentable: true
 
 |Weeks | Topics                                                                                  | Lecture slides	                                                                                                                                                               
 |----- |:----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1   |Introduction to E-Commerce                                                          | [{{% staticref "uploads/idsbd/2023-Chp1-大数据概述.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                  |
+|  1   |Introduction to E-Commerce | [{{% staticref "uploads/idsbd/2023-Chp1-大数据概述.pdf" "newtab" %}}Slides{{% /staticref %}}]                                                                                  |
 |  2   |The development of E-Commerce                 | |
 |  3  |The technological foundation of E-Commerce     | | 
 | 4 |Online Retail                                    | |               
-|  5  | Cotent Commerce                               | | 
-|  6  | Social Commerce (group confirmation)          | |               
-| 7  | New Retail| |  
-|  8 | Cross-Border E-Commerce| |                                       
+|  5  |Content Commerce                               | | 
+|  6  |Social Commerce (Group confirmation)          | |               
+| 7  |New Retail| |  
+|  8 |Cross-Border E-Commerce| |                                       
 |  9  |Rural E-Commerce| |                                              
 | 10  |Mobile E-Commerce||                                              
-|  11  | Industry-Specific Application| | 
+|  11  |Industry-Specific Application| | 
 |  12  |E-Commerce Case Analysis Method| |         
 |  13  |E-Commerce Logistics| |                                         
 |  14  |Online Marketing/Digital Marketing| |                           
