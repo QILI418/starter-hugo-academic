@@ -28,11 +28,11 @@ commentable: true
 
 ## Class Schedule
 
-|Weeks | Topics                                                                                  | Lecture slides	                                                                                                                                                               
+|Week | Topic                                                                                 | Lecture slides	                                                                                                                                                               
 |----- |:----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1   |Introduction to E-Commerce | [{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 1.pdf" "newtab" %}}Slides{{% /staticref %}}] |
-|  2   |The development of E-Commerce                 |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 2.pdf" "newtab" %}}Slides{{% /staticref %}}]  |
-|  3  |The technological foundation of E-Commerce     | | 
+|  2   |The Development of E-Commerce                 |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 2.pdf" "newtab" %}}Slides{{% /staticref %}}]  |
+|  3  |The Technological foundation of E-Commerce     | | 
 | 4 |Online Retail                                    | |               
 |  5  |Content Commerce                               | | 
 |  6  |Social Commerce (Group confirmation)          | |               
