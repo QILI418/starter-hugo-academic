@@ -33,18 +33,18 @@ commentable: true
 |  1   |Introduction to E-Commerce | [{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 1.pdf" "newtab" %}}Slides{{% /staticref %}}] |
 |  2   |The Development of E-Commerce                 |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 2.pdf" "newtab" %}}Slides{{% /staticref %}}]  |
 |  3  |The Technological foundation of E-Commerce     | | 
-| 4 |Online Retail                                    | |               
-|  5  |Content Commerce                               | | 
-|  6  |Social Commerce (Group confirmation)          | |               
-| 7  |New Retail| |  
-|  8 |Cross-Border E-Commerce| |                                       
-|  9  |Rural E-Commerce| |                                              
-| 10  |Mobile E-Commerce||                                              
-|  11  |Industry-Specific Application| | 
-|  12  |E-Commerce Case Analysis Method| |         
-|  13  |E-Commerce Logistics| |                                         
-|  14  |Online Marketing/Digital Marketing| |                           
-|  15  |Electronic Payments and Internet Finance| |                     
-|  16  |Customer Relationship Management/E-Commerce Security| |         
+| 4 |Online Retail[1]-B2C  | |        
+| 5 |Online Retail[2]-C2C  | |        
+|  6  |Content Commerce(Group confirmation) | | 
+|  7  |Social Commerce | |               
+| 8  |New Retail| |  
+|  9 |Cross-Border E-Commerce| |                                       
+|  10  |Rural E-Commerce| |                                              
+| 11  |Mobile E-Commerce||                                              
+|  12  |Industry-Specific Application| | 
+|  13  |E-Commerce Case Analysis Method| |         
+|  14  |E-Commerce Logistics| |                                         
+|  15  |Online Marketing/Digital Marketing| |                           
+|  16  |Electronic Payments and Internet Finance| |                           
 |  17-18  |Group presentation| |                                                                                     
 
