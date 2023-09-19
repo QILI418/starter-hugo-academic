@@ -32,16 +32,16 @@ commentable: true
 |----- |:----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1   |Introduction to E-Commerce | [{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 1.pdf" "newtab" %}}Slides{{% /staticref %}}] |
 |  2   |The Development of E-Commerce                 |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 2.pdf" "newtab" %}}Slides{{% /staticref %}}]  |
-|  3  |The Technological foundation of E-Commerce     | | 
-| 4 |Online Retail[1]-B2C  | |        
-| 5 |Online Retail[2]-C2C  | |        
-|  6  |Content Commerce(Group confirmation) | | 
-|  7  |Social Commerce | |               
-| 8  |New Retail| |  
-|  9 |Cross-Border E-Commerce| |                                       
-|  10  |Rural E-Commerce| |                                              
-| 11  |Mobile E-Commerce||                                              
-|  12  |Industry-Specific Application| | 
+|  3  |The Technological Foundation of E-Commerce     | | 
+| 4 |Online Retail[1]-B2C  | |   
+| 5 |National Day Holiday  | |  
+| 6 |Online Retail[2]-C2C (Group confirmation)  | |        
+|  7  |Content Commerce | | 
+|  8  |Social Commerce + Mobile Commerce| |               
+| 9  |New Retail| |  
+| 10 |Cross-Border E-Commerce| |                                       
+| 11 |Rural E-Commerce| |                                                                                          
+| 12 |Industry-Specific Application| | 
 |  13  |E-Commerce Case Analysis Method| |         
 |  14  |E-Commerce Logistics| |                                         
 |  15  |Online Marketing/Digital Marketing| |                           
