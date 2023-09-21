@@ -32,7 +32,7 @@ commentable: true
 |----- |:----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1   |Introduction to E-Commerce | [{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 1.pdf" "newtab" %}}Slides{{% /staticref %}}] |
 |  2   |The Development of E-Commerce                 |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 2.pdf" "newtab" %}}Slides{{% /staticref %}}]  |
-|  3  |The Technological Foundation of E-Commerce     | | 
+|  3  |The Technological Foundation of E-Commerce     |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 3.pdf" "newtab" %}}Slides{{% /staticref %}}] | 
 | 4 |Online Retail[1]-B2C  | |   
 | 5 |National Day Holiday  | |  
 | 6 |Online Retail[2]-C2C (Group confirmation)  | |        
