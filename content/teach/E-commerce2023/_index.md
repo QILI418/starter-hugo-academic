@@ -22,7 +22,7 @@ commentable: true
 |  Requirements              | Percent      | Points                       | Note                                       |
 |:---------------------------|:------------:|:-----------------------------|:-------------------------------------------|
 | Regular homework assessments | 10%          |   100                       |                                            |
-|Group presentation        | 30%              |     100                     |                                            |
+|Group presentation        | 30%              |     100                     | [{{% staticref "uploads/E-Commerce2023/Group_list.xlsx" "newtab" %}}Group list{{% /staticref %}}]                                           |
 | Final  exam                | 60%          |  100                          |                                            |
 
 
