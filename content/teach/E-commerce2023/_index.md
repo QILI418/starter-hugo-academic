@@ -33,18 +33,17 @@ commentable: true
 |  1   |Introduction to E-Commerce | [{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 1.pdf" "newtab" %}}Slides{{% /staticref %}}] |
 |  2   |The Development of E-Commerce                 |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 2.pdf" "newtab" %}}Slides{{% /staticref %}}]  |
 |  3  |The Technological Foundation of E-Commerce     |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 3.pdf" "newtab" %}}Slides{{% /staticref %}}] | 
-| 4 |New Emerging Technologies of E-Commerce | |  
-| 5 |National Day Holiday  | |  
-| 6 |Online Retail[1]-B2C(Group confirmation)| |   
-| 7 |Online Retail[2]-C2C  | |        
-| 8 |Content Commerce | | 
-| 9 |Social Commerce + Mobile Commerce| |               
-| 10  |New Retail| |  
-| 11 |Cross-Border E-Commerce| |                                       
-| 12 |Rural E-Commerce| |                                                                                          
-| 13 |Industry-Specific Application/E-Commerce Case Analysis Method| |        
-|  14 |E-Commerce Logistics| |                                         
-|  15 |Online Marketing/Digital Marketing| |                           
-|  16 |Electronic Payments and Internet Finance| |                           
+| 4-5 |University anniversary & National Day Holiday  | |  
+| 6 |New Emerging Technologies of E-Commerce (Group confirmation)| |  
+| 7 |Online Retail[1]-B2C| |   
+| 8 |Online Retail[2]-C2C| |        
+| 9 |Content Commerce | | 
+| 10 |Social Commerce + Mobile Commerce| |               
+| 11 |New Retail| |  
+| 12 |Cross-Border E-Commerce| |                                       
+| 13 |Rural E-Commerce| |                                                                                          
+| 14 |Industry-Specific Application/E-Commerce Case Analysis Method| |        
+| 15 |E-Commerce Logistics/Electronic Payments and Internet Finance| |                                         
+| 16 |Online Marketing/Digital Marketing| |                                                  
 |  17-18  |Group presentation| |                                                                                     
 
