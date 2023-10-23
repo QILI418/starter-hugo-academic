@@ -34,7 +34,7 @@ commentable: true
 |  2   |The Development of E-Commerce                 |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 2.pdf" "newtab" %}}Slides{{% /staticref %}}]  |
 |  3  |The Technological Foundation of E-Commerce     |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 3.pdf" "newtab" %}}Slides{{% /staticref %}}] | 
 | 4-5 |University anniversary & National Day Holiday  ||  
-| 6-7 |New Emerging Technologies of E-Commerce (Group confirmation)| |  
+| 6-7 |New Emerging Technologies of E-Commerce (Group confirmation)|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 3.pdf" "newtab" %}}Slides{{% /staticref %}}] |  
 | 8 |E-Commerce Case Analysis Method + Online Retail[1]-B2C| |   
 | 9 |Online Retail[2]-C2C| |        
 | 10 |Content Commerce | | 
