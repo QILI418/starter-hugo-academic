@@ -37,7 +37,7 @@ commentable: true
 | 6-7 |New Emerging Technologies of E-Commerce (Group confirmation)|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 6 - 7.pdf" "newtab" %}}Slides{{% /staticref %}}] |  
 | 8 |E-Commerce Case Analysis Method + Online Retail[1]-B2C|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 8.pdf" "newtab" %}}Slides{{% /staticref %}}]  |   
 | 9 |Online Retail[2]-C2C|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 9.pdf" "newtab" %}}Slides{{% /staticref %}}]  |     
-| 10 |New Retail|{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 10.pdf" "newtab" %}}Slides{{% /staticref %}}]  |  
+| 10 |New Retail|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 10.pdf" "newtab" %}}Slides{{% /staticref %}}]  |  
 | 11 |Content Commerce | | 
 | 12 |Social + Mobile Commerce| |               
 | 13 |Cross-Border E-Commerce + Rural E-Commerce| |                                                                            
