@@ -42,7 +42,7 @@ commentable: true
 | 12 |Social + Mobile Commerce|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 12.pdf" "newtab" %}}Slides{{% /staticref %}}]  |               
 | 13 |Cross-Border E-Commerce| [{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 13.pdf" "newtab" %}}Slides{{% /staticref %}}] |                                                                            
 | 14 |Rural E-Commerce|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 14.pdf" "newtab" %}}Slides{{% /staticref %}}]  |        
-| 15 |E-Commerce Logistics| |                                         
-| 16 |Electronic Payments and Internet Finance| |                                                  
+| 15 |E-Commerce Logistics|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 15.pdf" "newtab" %}}Slides{{% /staticref %}}]  |                                         
+| 16 |University Games| |                                                  
 | 17-18 |Group presentation| |                                                                                     
 
