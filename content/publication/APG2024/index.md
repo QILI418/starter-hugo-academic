@@ -47,7 +47,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: {{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 3.pdf" "newtab" %}}Slides{{% /staticref %}}
 url_code: ''
 url_dataset: ''
 url_poster: ''
