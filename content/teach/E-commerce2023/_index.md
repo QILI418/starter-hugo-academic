@@ -1,5 +1,5 @@
 ---
-title: (2023)E-Commerce Case Analysis
+title: (2023) E-Commerce Case Analysis
 summary: E-commerce case analysis refers to the process of examining and evaluating specific cases or scenarios related to e-commerce businesses. This analysis typically involves a systematic review of various aspects of an e-commerce business, aiming to gain insights, make informed decisions, and potentially solve problems.
 date: '2023-09-06'
 type: Course
