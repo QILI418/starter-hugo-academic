@@ -1,5 +1,5 @@
 ---
-title: 2022-Quantitative Methods (Teaching assistant)
+title: (2022) Quantitative Methods (Teaching assistant)
 summary: Quiz preparation and explaination; Question solving; Assessment marking.
 tags:
 - 
