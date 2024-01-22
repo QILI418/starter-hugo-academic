@@ -28,21 +28,21 @@ commentable: true
 
 ## Class Schedule
 
-|Week | Topic                                                                                 | Lecture slides	                                                                                                                                                               
+|Week | Topic                                                                                 |                                                                                                                                                
 |----- |:----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1   |Introduction to E-Commerce | [{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 1.pdf" "newtab" %}}Slides{{% /staticref %}}] |
-|  2   |The Development of E-Commerce                 |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 2.pdf" "newtab" %}}Slides{{% /staticref %}}]  |
-|  3  |The Technological Foundation of E-Commerce     |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 3.pdf" "newtab" %}}Slides{{% /staticref %}}] | 
-| 4-5 |University anniversary & National Day Holiday  ||  
-| 6-7 |New Emerging Technologies of E-Commerce (Group confirmation)|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 6 - 7.pdf" "newtab" %}}Slides{{% /staticref %}}] |  
-| 8 |E-Commerce Case Analysis Method + Online Retail[1]-B2C|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 8.pdf" "newtab" %}}Slides{{% /staticref %}}]  |   
-| 9 |Online Retail[2]-C2C|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 9.pdf" "newtab" %}}Slides{{% /staticref %}}]  |     
-| 10 |New Retail|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 10.pdf" "newtab" %}}Slides{{% /staticref %}}]  |  
-| 11 |Content Commerce |[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 11.pdf" "newtab" %}}Slides{{% /staticref %}}]  | 
-| 12 |Social + Mobile Commerce|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 12.pdf" "newtab" %}}Slides{{% /staticref %}}]  |               
-| 13 |Cross-Border E-Commerce| [{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 13.pdf" "newtab" %}}Slides{{% /staticref %}}] |                                                                            
-| 14 |Rural E-Commerce|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 14.pdf" "newtab" %}}Slides{{% /staticref %}}]  |        
-| 15 |E-Commerce Logistics|[{{% staticref "uploads/E-Commerce2023/E-Commerce Lecture 15.pdf" "newtab" %}}Slides{{% /staticref %}}]  |                                         
-| 16 |University Games| |                                                  
-| 17-18 |Group presentation| |                                                                                     
+|  1   |Introduction to E-Commerce | 
+|  2   |The Development of E-Commerce                 |
+|  3  |The Technological Foundation of E-Commerce     |
+| 4-5 |University anniversary & National Day Holiday  |
+| 6-7 |New Emerging Technologies of E-Commerce (Group confirmation)|
+| 8 |E-Commerce Case Analysis Method + Online Retail[1]-B2C|
+| 9 |Online Retail[2]-C2C| 
+| 10 |New Retail|
+| 11 |Content Commerce |
+| 12 |Social + Mobile Commerce|      
+| 13 |Cross-Border E-Commerce|                                                                          
+| 14 |Rural E-Commerce|       
+| 15 |E-Commerce Logistics|                                       
+| 16 |University Games|                                                 
+| 17-18 |Group presentation|                                                                               
 
