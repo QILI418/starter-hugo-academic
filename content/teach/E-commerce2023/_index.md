@@ -1,6 +1,5 @@
 ---
 title: E-Commerce Case Analysis
-（电子商务案例分析）
 summary: E-commerce case analysis refers to the process of examining and evaluating specific cases or scenarios related to e-commerce businesses. This analysis typically involves a systematic review of various aspects of an e-commerce business, aiming to gain insights, make informed decisions, and potentially solve problems.
 date: '2023-09-06'
 type: Course
