@@ -13,10 +13,10 @@ commentable: true
 **Time**:               周三 11-12节      <br>
 **Credits**:           2/36 课时
 
+{{< toc hide_on="xl" >}}
+
 -----
 
-
------
 ## Grade breakdown
 
 |  Requirements              | Percent      | Points                       | Note                                       |
@@ -29,7 +29,7 @@ commentable: true
 ## Class Schedule
 
 |Week | Topic                                                                                 |                                                                                                                                                
-|:----- |:----------------------------------------------------------------------------------------|
+|:--------------- |:----------------------------------------------------------------------------------------|
 |  1   |Introduction to E-Commerce | 
 |  2   |The Development of E-Commerce                 |
 |  3  |The Technological Foundation of E-Commerce     |
