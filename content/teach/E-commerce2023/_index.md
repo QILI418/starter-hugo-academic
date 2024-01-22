@@ -15,8 +15,8 @@ commentable: true
 
 -----
 
-{{< toc hide_on="xl" >}}
 
+-----
 ## Grade breakdown
 
 |  Requirements              | Percent      | Points                       | Note                                       |
@@ -25,11 +25,11 @@ commentable: true
 |Group presentation        | 30%              |     100                     | [{{% staticref "uploads/E-Commerce2023/group_list.xlsx" "newtab" %}}Group list{{% /staticref %}}]                                           |
 | Final  exam                | 60%          |  100                          |                                            |
 
-
+-----
 ## Class Schedule
 
 |Week | Topic                                                                                 |                                                                                                                                                
-|----- |:----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:----- |:----------------------------------------------------------------------------------------|
 |  1   |Introduction to E-Commerce | 
 |  2   |The Development of E-Commerce                 |
 |  3  |The Technological Foundation of E-Commerce     |
