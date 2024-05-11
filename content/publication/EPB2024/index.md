@@ -1,5 +1,5 @@
 ---
-title: "Unpacking urban scaling and socio-spatial inequalities in mobility: Evidence from England"
+title: "Unpacking urban scaling and socio-spatial inequalities in mobility:Evidence from England"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
