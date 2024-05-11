@@ -10,7 +10,7 @@ commentable: true
 **Instructor**:       Qili Gao(高琦丽)  Wei Wang(王为)               <br>
 **Email**:              `qlgao@szu.edu.cn`                 <br>
 **Room**:             Huixing Building-Classroom 2<br>
-**Time**:               周午 11-13节      <br>
+**Time**:               周五 11-13节      <br>
 **Credits**:           2/48 课时
 
 -----
