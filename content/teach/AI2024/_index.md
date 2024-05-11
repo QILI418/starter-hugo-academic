@@ -1,5 +1,5 @@
 ---
-title: (2024) Artificial Intelligence & Machine Learning (Nantes Master)
+title: (2024) Artificial Intelligence & Machine Learning (Nantes Master).
 summary:  Welcome to the exciting world of Artificial Intelligence (AI). In this course, we will delve into the foundations, principles, and applications of AI, exploring how machines can be programmed to perform tasks that typically require human intelligence. 
 date: '2024-03-08'.
 type: Course
