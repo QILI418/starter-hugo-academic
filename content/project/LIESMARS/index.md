@@ -1,5 +1,5 @@
 ---
-title: Sustainable Smart City: Unpack Urban Mobility and Inequality
+title: Sustainable Smart City：Unpack Urban Mobility and Inequality
 summary: 可持续智慧城市 利用深度学习和大数据解读城市移动性和平等性
 tags: 
 - 
