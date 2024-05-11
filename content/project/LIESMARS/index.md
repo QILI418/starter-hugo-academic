@@ -1,6 +1,6 @@
 ---
 title: Open Fund of State Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing
-summary: Sustainable Smart City：Unpack Urban Mobility and Inequality
+summary: Sustainable Smart City：Unpacking Urban Mobility and Inequality
 tags: 
 - 
 date: "2024-02-01"
@@ -29,7 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Sustainable Smart City：Unpack Urban Mobility and Inequality
+Sustainable Smart City：Unpacking Urban Mobility and Inequality
 
 可持续智慧城市：利用深度学习和大数据解读城市移动性和平等性
 
