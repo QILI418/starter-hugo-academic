@@ -32,7 +32,7 @@ commentable: true
 |  2   |Logistic Regression              |
 |  3  |Multi-Classification & Model Evaluation   |
 | 4 |Decision Tree|
-| 5 |BP Neural Network & Model Optimization|
+| 5 |BP Neural Network & Optimization|
 | 6 |Convolutional Neural Network (CNN)|
 | 7 |Recurrent Neural Network (RNN/LSTM/GRU)|   
 | 8 |Mid-term Individual Pre|   
