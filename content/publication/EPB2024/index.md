@@ -27,7 +27,7 @@ doi: "10.1177/23998083241234"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Environment and Planning B: Urban Analytics and City Science*
+publication: In *Environment and Planning B：Urban Analytics and City Science*
 publication_short: In *EPB*
 
 abstract: Prior research on the scaling of city size and inequality has a primary focus on economic factors such as income. Limited research has addressed socio-spatial disparities in mobility, involving physical activities and social interactions among individuals and population groups. Utilising mobile phone app data, this study measured inequalities using multiple mobility-related indicators (i.e. the number of activity points, the radius of gyration, self-containment, and social interaction indices) and related to population size by scaling models. In England’s context, these indicators unfolding mobility patterns and social issues display different scaling regimes, varying from sublinear to super-linear. It was observed that larger cities are associated with greater social interactions, particularly among socioeconomically advantaged groups; however, they also exhibit exacerbated self-segregation. Due to the radiation effect of big cities, the performances (e.g. travel radius) of small surrounding towns deviate from the predicted values of scaling models. Within cities, the evenness of indicators is independent of population size and produces distinct spatial patterns. The findings expand upon previous research and provide a more nuanced understanding of the complex relationship between city size, urban inequality, and human mobility.
