@@ -30,7 +30,9 @@ url_video: ""
 slides: example
 ---
 Sustainable Smart City：Unpack Urban Mobility and Inequality
+
 可持续智慧城市：利用深度学习和大数据解读城市移动性和平等性
+
 1. Representation learning method and model construction for dynamic mobility graphs.
 2. Expression of place attributes based on urban morphology and scene theory.
 3. A case study of urban inequality from a mobility perspective.
