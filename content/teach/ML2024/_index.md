@@ -33,6 +33,7 @@ commentable: true
 |  3  |Multi-Classification & Model Evaluation   |
 | 4 |Decision Tree|
 | 5 |BP Neural Network & Model Optimization|
-| 8 |Convolutional Neural Network (CNN)|
-| 9 |Recurrent Neural Network (RNN/LSTM/GRU)|                                                                              
+| 6 |Convolutional Neural Network (CNN)|
+| 7 |Recurrent Neural Network (RNN/LSTM/GRU)|   
+| 8 |Mid-term Individual Pre|   
 
