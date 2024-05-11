@@ -1,6 +1,6 @@
 ---
-title: 
-summary: 可持续智慧城市：利用深度学习和大数据解读城市移动性和平等性.Sustainable Smart City: Unpack Urban Mobility and Inequality
+title: 可持续智慧城市：利用深度学习和大数据解读城市移动性和平等性
+summary: Sustainable Smart City: Unpack Urban Mobility and Inequality
 tags: 
 - 
 date: "2024-02-01"
