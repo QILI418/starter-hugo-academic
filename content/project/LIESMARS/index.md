@@ -1,6 +1,6 @@
 ---
 title: 可持续智慧城市：利用深度学习和大数据解读城市移动性和平等性
-summary: Sustainable Smart City: Unpack Urban Mobility and Inequality
+summary: Sustainable Smart City Unpack Urban Mobility and Inequality
 tags: 
 - 
 date: "2024-02-01"
@@ -31,8 +31,11 @@ slides: example
 ---
 
 Open Fund of State Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing
+
 Sustainable Smart City: Unpack Urban Mobility and Inequality
+
 可持续智慧城市：利用深度学习和大数据解读城市移动性和平等性
+
 1. Representation learning method and model construction for dynamic mobility graphs.
 2. Expression of place attributes based on urban morphology and scene theory.
 3. A case study of urban inequality from a mobility perspective.
