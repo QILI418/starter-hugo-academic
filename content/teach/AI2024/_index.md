@@ -1,7 +1,7 @@
 ---
-title: (2024) Artificial Intelligence & Machine Learning (Nantes Master)
-summary: hhh
-date: '2024-03-08'.
+title: (2024) Machine Learning (AI Master)
+summary: Welcome to the exciting world of Machine Learning! This course is designed to be your gateway into understanding one of the most transformative technologies of the 21st century. 
+date: '2024-03-08'
 type: Course
 commentable: true
 
