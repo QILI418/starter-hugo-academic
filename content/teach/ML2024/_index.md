@@ -11,7 +11,7 @@ commentable: true
 **Email**:              `qlgao@szu.edu.cn`                 <br>
 **Room**:             Huixing Building-Classroom 2<br>
 **Time**:               周五 11-13节      <br>
-**Credits**:           2/48 课时
+**Credits**:           3/48 课时
 
 -----
 {{< toc hide_on="xl" >}}
@@ -31,7 +31,7 @@ commentable: true
 |  1   |Introduction to Machine Learning & Linear Regression | 
 |  2   |Logistic Regression              |
 |  3  |Multi-Classification & Model Evaluation   |
-| 4 |Decision Tree|
+| 4 |Decision Tree (ID3 & C4.5 & CART)|
 | 5 |BP Neural Network & Optimization|
 | 6 |Convolutional Neural Network (CNN)|
 | 7 |Recurrent Neural Network (RNN/LSTM/GRU)|   
