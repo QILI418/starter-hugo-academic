@@ -1,5 +1,5 @@
 ---
-title: Rethinking Urban Inequality from the Geo-computational Social Sciences Perspective (lightning talk)
+title: Rethinking Urban Inequality from the Geo-computational Social Sciences Perspective (invited talk)
 
 event: The 4th Space Information and Technology Application Conference (第四届空间信息技术应用大会)
 event_url: http://www.carsa.org.cn/site/content/1153.html
