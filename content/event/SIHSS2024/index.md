@@ -1,7 +1,7 @@
 ---
-title: Data-driven analysis on urban inequality(invited talk)
+title: Data-driven analysis on urban inequality (invited talk)
 
-event: The 14th Space Integrated Humanities and Social Sciences
+event: The 14th Space Integrated Humanities and Social Sciences (第十四届空间综合人文学与社会科学学术论坛)
 event_url: https://www.gsc.org.cn/gsc/xueshuDetail.html?id=54&contentId=1704
 
 location: Nanchang, China
@@ -17,8 +17,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-28T13:00:00Z'
-date_end: '2024-06-28T15:00:00Z'
+date: '2024-06-28T00:00:00Z'
+date_end: '2024-06-30T00:00:00Z'
 all_day: True
 
 # Schedule page publish date (NOT talk date).
