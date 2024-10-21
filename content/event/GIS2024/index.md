@@ -1,5 +1,5 @@
 ---
-title: Income Estimation using Smart Card Data and Machine Learning Models (invited talk)
+title: Income estimation using smart card data and machine learning models (invited talk)
 
 event: The 19th Annual Conference on Theories and Methods of Geographic Information Science (第九届全国大数据与社会计算学术会议)
 event_url: https://mp.weixin.qq.com/s/5WbZPSio4mWbVE_PXIDd2w
