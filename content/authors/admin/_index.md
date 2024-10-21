@@ -20,8 +20,9 @@ bio: My research interests include human dynamics and urban informatics.
 interests:
 - Human Dynamics and Urban Informatics
 - Spatial Data Mining and Social Computing
-- Human Mobility and Social Inequalilty
+- Human Mobility and Social Inequality
 - Data-driven Urban Analytics
+- Economic Geography and Fintech
 
 # Education to show in About widget
 education:
@@ -71,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-Dr. Qili Gao is an Assistant Professor at Shenzhen University. She received her Ph.D. degree from Wuhan University, China. Her research interests include spatial-temporal data mining, urban informatics, and analysis on human mobility and social inequality for urban and transport planning. She has published several papers in human mobility pattern, jobs-housing relationship, socio-spatial segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Science Foundation of China.
+Dr. Qili Gao is an Assistant Professor at Shenzhen University. She received her Ph.D. degree from Wuhan University, China. Her research interests include spatial-temporal data mining, urban informatics, and human mobility and social inequality analysis for urban and transport planning. She has published several papers on human mobility patterns, jobs-housing relationships, socio-spatial segregation and transport-based inequality. She was also awarded the National Natural Science Foundation of China for Youth and the Postdoctoral Science Foundation of China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
