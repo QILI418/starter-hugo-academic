@@ -1,5 +1,5 @@
 ---
-title: Social and Geographic Computing on Urban Socio-spatial Inequality (invited talk)
+title: Social and geographic computing on urban socio-spatial inequality (invited talk)
 
 event: The 4th Space Information and Technology Application Conference (第四届空间信息技术应用大会)
 event_url: http://www.carsa.org.cn/site/content/1153.html
