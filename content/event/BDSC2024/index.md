@@ -1,5 +1,5 @@
 ---
-title: Rethinking Urban Inequality from the Geo-computational Social Sciences Perspective (lightning talk)
+title: Rethinking urban inequality from the geo-computational social sciences perspective (lightning talk)
 
 event: China National Conference on Big Data & Social Computing 2024 (第九届全国大数据与社会计算学术会议)
 event_url: https://caai.cn/index.php?s=/home/article/detail/id/3965.html
