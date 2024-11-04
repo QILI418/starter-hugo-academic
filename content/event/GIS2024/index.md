@@ -1,7 +1,7 @@
 ---
 title: Income estimation using smart card data and machine learning models (invited talk)
 
-event: The 19th Annual Conference on Theories and Methods of Geographic Information Science (第九届全国大数据与社会计算学术会议)
+event: The 19th Annual Conference on Theories and Methods of Geographic Information Science (第十九届地理信息科学理论与方法学术年会)
 event_url: http://gis2024.hyterp.cn/pc-index.html
 
 location: Xi'An, China
